@@ -1,14 +1,12 @@
 # hidden Mac file of cached metadata when Finder is used to browse folders
 .DS_Store
-
+Thumbs.db
 
 #VS Code workspace file
 .VSCode
 
-
 #Python dotenv file
 *.env                  # Environment files (if used for storing secrets)
-
 
 #Python and Anaconda virtual environment
 env/                   # Anaconda or virtual environment directory (if named 'env')
